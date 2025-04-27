@@ -1,5 +1,7 @@
 # Library Management System
 
+![Maven Build](https://img.shields.io/badge/Build-Maven-brightgreen)
+
 ## Description
 A full-stack Java and SQL project designed to manage library operations, including book inventory, user management, and transaction records. Built using object-oriented principles and relational database management.
 
